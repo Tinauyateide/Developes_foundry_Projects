@@ -21,6 +21,8 @@ models/
 Thumbs.db
 .vscode/
 .env
+.venv
+.vscode
 
 # Logs
 *.log
