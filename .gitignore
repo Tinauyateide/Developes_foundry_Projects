@@ -1,0 +1,30 @@
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+
+# Data and models
+*.csv
+*.tsv
+*.xlsx
+*.h5
+*.joblib
+models/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.env
+
+# Logs
+*.log
+
+# Other
+*.tmp
+*.out
